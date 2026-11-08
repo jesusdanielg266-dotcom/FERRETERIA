@@ -12,7 +12,6 @@ Prototipo y tienda funcional de una ferretería en línea (estilo tienda de moda
 index.html              Tienda funcional (HTML/CSS/JS)
 prototipo/
   Prototipo-FerroHub.pdf  Prototipo completo con mapa de navegación
-  pantallas/*.svg         15 pantallas del diseño (importables en Penpot/Figma)
 README.md
 ```
 
@@ -25,4 +24,7 @@ README.md
 Los datos se guardan en el navegador (localStorage); no hay servidor.
 
 ## Integrantes
-- _(nombres)_
+- _(Jesus Daniel Trujillo Garcia
+- Jesus David Marquez Morales
+- Samuel Oviedo Vega
+- Ángel David Cárdenas Rivera)_
