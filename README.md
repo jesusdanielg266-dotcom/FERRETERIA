@@ -1,6 +1,6 @@
 # FerroHub – Ferretería en línea
 
-Prototipo y tienda funcional de una ferretería en línea (estilo tienda de moda, pero de ferretería).
+Prototipo y tienda funcional de una ferretería en línea.
 
 ## Funcionalidades
 - **Login** y creación de cuenta, además de modo invitado
@@ -10,21 +10,14 @@ Prototipo y tienda funcional de una ferretería en línea (estilo tienda de moda
 ## Contenido del repositorio
 ```
 index.html              Tienda funcional (HTML/CSS/JS)
-prototipo/
-  Prototipo-FerroHub.pdf  Prototipo completo con mapa de navegación
 README.md
 ```
 
 ## Cómo verlo
 - **Tienda funcional:** https://jesusdanielg266-dotcom.github.io/FERRETERIA/
-- **Prototipo en Penpot/Figma:** _(pegar aquí el enlace)_
-- **Prototipo en PDF:** `prototipo/Prototipo-FerroHub.pdf`
-
-## Notas
-Los datos se guardan en el navegador (localStorage); no hay servidor.
-
+- **Prototipo en Penpot/Figma:** https://design.penpot.app/?screen=viewer&file-id=8af72ccb-2daf-802c-8008-d20d89d68e8e&page-id=8af72ccb-2daf-802c-8008-d20d89d68e8f&section=interactions&frame-id=34e81ce9-b33f-80fa-8008-dad19abbb8d3&index=0&share-id=17a56720-3b2d-4d3f-9b9d-36bda3af86a3
 ## Integrantes
-- _(Jesus Daniel Trujillo Garcia
+- Jesus Daniel Trujillo Garcia
 - Jesus David Marquez Morales
 - Samuel Oviedo Vega
-- Ángel David Cárdenas Rivera)_
+- Ángel David Cárdenas Rivera
